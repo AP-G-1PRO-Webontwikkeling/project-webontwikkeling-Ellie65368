@@ -21,7 +21,7 @@ export interface Movies {
   }
 
   async function fetchJson(file:string) {
-    const data = await fetch(`https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-Ellie65368/blob/main/json/${file}.json`)
+    const data = await fetch(`https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-Ellie65368/raw/main/json/${file}.json`);
     return data.json()
 }
 
@@ -29,7 +29,7 @@ import readline from "readline-sync";
 
 (async function main()
 {
-    const disney = await fetchJson("disney");
+    const disney: Movies[] = await fetchJson("disney");
     const producer = await fetchJson("producer");
 
     let exit: boolean = false;
