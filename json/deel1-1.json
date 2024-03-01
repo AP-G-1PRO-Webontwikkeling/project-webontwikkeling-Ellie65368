@@ -1,0 +1,18 @@
+[
+    {
+      "id": "GUILD-009",
+      "name": "Order of the Cosmic Veil",
+      "guildMaster": "Celestial Mage",
+      "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
+      "foundedYear": 1423,
+      "motto": "Balance in All, All in Balance"
+    },
+    {
+      "id": "GUILD-015",
+      "name": "Brotherhood of the Dusk",
+      "guildMaster": "Darkness Wielder",
+      "guildEmblemUrl": "https://example.com/images/guilds/dusk-brotherhood-emblem.jpg",
+      "foundedYear": 1578,
+      "motto": "In Shadows, Truth"
+    }
+  ]

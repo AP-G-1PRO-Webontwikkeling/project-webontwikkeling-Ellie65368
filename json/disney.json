@@ -1,0 +1,201 @@
+[
+    {
+      "id": "DIS-001",
+      "name": "Assepoester",
+      "description": "Het verhaal van de film is gebaseerd op het gelijknamige sprookje zoals dat in de 17e eeuw werd geschreven door Charles Perrault.",
+      "age": 74,
+      "seen": true,
+      "première": "1950-02-15",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/1950_is_the_Cinderella_year.jpg/800px-1950_is_the_Cinderella_year.jpg",<!--Downloaden en in images zetten-->
+      "time": "72 min",
+      "abilities": ["Teleportation", "Energy Manipulation", "Dimensional Travel"],
+      "element": "Aether",
+      "guildAffiliation": {
+        "id": "GUILD-009",
+        "name": "Order of the Cosmic Veil",
+        "guildMaster": "Celestial Mage",
+        "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
+        "foundedYear": 1423,
+        "motto": "Balance in All, All in Balance"
+      }
+    },
+    {
+      "id": "DIS-002",
+      "name": "Doornroosje",
+      "description": "De film is gebaseerd op het sprookje van de Schone Slaapster zoals dat is geschreven door Charles Perrault.",
+      "age": 65,
+      "seen": true,
+      "birthDate": "1959-01-29",
+      "imageUrl": "https://example.com/images/shadow-enchantress.jpg",
+      "time": "75 min",
+      "abilities": ["Shadow Manipulation", "Illusion Casting", "Night Vision"],
+      "element": "Shadow",
+      "guildAffiliation": {
+        "id": "GUILD-015",
+        "name": "Brotherhood of the Dusk",
+        "guildMaster": "Darkness Wielder",
+        "guildEmblemUrl": "https://example.com/images/guilds/dusk-brotherhood-emblem.jpg",
+        "foundedYear": 1578,
+        "motto": "In Shadows, Truth"
+      }
+    },
+    {
+      "id": "DIS-003",
+      "name": "De Reddertjes",
+      "description": "Het verhaal van de film is gebaseerd op de boeken The Rescuers en Miss Bianca van de Britse schrijfster Margery Sharp.",
+      "age": 47,
+      "seen": true,
+      "première": "1977-06-22",
+      "imageUrl": "nog zoeken",
+      "time": "78 min",
+      "abilities": ["Teleportation", "Energy Manipulation", "Dimensional Travel"],
+      "element": "Aether",
+      "guildAffiliation": {
+        "id": "GUILD-009",
+        "name": "Order of the Cosmic Veil",
+        "guildMaster": "Celestial Mage",
+        "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
+        "foundedYear": 1423,
+        "motto": "Balance in All, All in Balance"
+      }
+    },
+    {
+      "id": "DIS-004",
+      "name": "Belle en het Beest",
+      "description": "Het script is in hoofdlijnen gebaseerd op dat uit het gelijknamige volksverhaal van Jeanne-Marie Leprince de Beaumont.",
+      "age": 33,
+      "seen": true,
+      "birthDate": "1991-11-13",
+      "imageUrl": "im",
+      "time": "84 min",
+      "abilities": ["Shadow Manipulation", "Illusion Casting", "Night Vision"],
+      "element": "Shadow",
+      "guildAffiliation": {
+        "id": "GUILD-015",
+        "name": "Brotherhood of the Dusk",
+        "guildMaster": "Darkness Wielder",
+        "guildEmblemUrl": "https://example.com/images/guilds/dusk-brotherhood-emblem.jpg",
+        "foundedYear": 1578,
+        "motto": "In Shadows, Truth"
+      }
+    },
+    {
+      "id": "DIS-005",
+      "name": "Mulan",
+      "description": "Het script van de film is losjes gebaseerd op de Chinese legende van Hua Mulan.",
+      "age": 26,
+      "seen": true,
+      "première": "1998-06-06",
+      "imageUrl": "nog zoeken",
+      "time": "88 min",
+      "abilities": ["Teleportation", "Energy Manipulation", "Dimensional Travel"],
+      "element": "Aether",
+      "guildAffiliation": {
+        "id": "GUILD-009",
+        "name": "Order of the Cosmic Veil",
+        "guildMaster": "Celestial Mage",
+        "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
+        "foundedYear": 1423,
+        "motto": "Balance in All, All in Balance"
+      }
+    },
+    {
+      "id": "DIS-006",
+      "name": "De prinses en de kikker",
+      "description": "Het verhaal is losjes gebaseerd op het boek The Princess and the Frog van E.D. Baker, dat weer is geïnspireerd door het sprookje De kikkerkoning.",
+      "age": 15,
+      "seen": true,
+      "birthDate": "2009-12-11",
+      "imageUrl": "https://example.com/images/shadow-enchantress.jpg",
+      "time": "95 min",
+      "abilities": ["Shadow Manipulation", "Illusion Casting", "Night Vision"],
+      "element": "Shadow",
+      "guildAffiliation": {
+        "id": "GUILD-015",
+        "name": "Brotherhood of the Dusk",
+        "guildMaster": "Darkness Wielder",
+        "guildEmblemUrl": "https://example.com/images/guilds/dusk-brotherhood-emblem.jpg",
+        "foundedYear": 1578,
+        "motto": "In Shadows, Truth"
+      }
+      },
+      {
+        "id": "DIS-007",
+        "name": "Rapunzel",
+        "description": "Dit verhaal is losjes gebaseerd op een bestaand sprookje: Raponsje in navolging van Enchanted en De Prinses en de kikker.",
+        "age": 14,
+        "seen": true,
+        "première": "2010-12-01",
+        "imageUrl": "nog zoeken",
+        "time": "100 min",
+        "abilities": ["Teleportation", "Energy Manipulation", "Dimensional Travel"],
+        "element": "Aether",
+        "guildAffiliation": {
+          "id": "GUILD-009",
+          "name": "Order of the Cosmic Veil",
+          "guildMaster": "Celestial Mage",
+          "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
+          "foundedYear": 1423,
+          "motto": "Balance in All, All in Balance"
+        }
+      },
+      {
+        "id": "DIS-008",
+        "name": "Raya en de Laatste Draak",
+        "description": "Het is een verhaal dat gaat over vertrouwen en samenwerking.",
+        "age": 3,
+        "seen": true,
+        "birthDate": "2021-03-05",
+        "imageUrl": "https://example.com/images/shadow-enchantress.jpg",
+        "time": "107 min",
+        "abilities": ["Shadow Manipulation", "Illusion Casting", "Night Vision"],
+        "element": "Shadow",
+        "guildAffiliation": {
+          "id": "GUILD-015",
+          "name": "Brotherhood of the Dusk",
+          "guildMaster": "Darkness Wielder",
+          "guildEmblemUrl": "https://example.com/images/guilds/dusk-brotherhood-emblem.jpg",
+          "foundedYear": 1578,
+          "motto": "In Shadows, Truth"
+        }
+        },
+        {
+          "id": "DIS-009",
+          "name": "Encanto",
+          "description": "Het verhaal gaat over een familie met magische krachten buiten de 15 jarige Mirabel.",
+          "age": 3,
+          "seen": true,
+          "première": "2021-11-24",
+          "imageUrl": "nog zoeken",
+          "time": "99 min",
+          "abilities": ["Teleportation", "Energy Manipulation", "Dimensional Travel"],
+          "element": "Aether",
+          "guildAffiliation": {
+            "id": "GUILD-009",
+            "name": "Order of the Cosmic Veil",
+            "guildMaster": "Celestial Mage",
+            "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
+            "foundedYear": 1423,
+            "motto": "Balance in All, All in Balance"
+          }
+        },
+        {
+          "id": "DIS-010",
+          "name": "Wish",
+          "description": "De introductie van koning Magnifico kenmerkt de terugkeer van de klassieke Disney-slechterik, zoals we die kennen van de Boze Koningin uit Snow White tot Mother Gothel uit Tangled.",
+          "age": 1,
+          "seen": true,
+          "birthDate": "2023-11-22",
+          "imageUrl": "https://example.com/images/shadow-enchantress.jpg",
+          "time": "92 min",
+          "abilities": ["Shadow Manipulation", "Illusion Casting", "Night Vision"],
+          "element": "Shadow",
+          "guildAffiliation": {
+            "id": "GUILD-015",
+            "name": "Brotherhood of the Dusk",
+            "guildMaster": "Darkness Wielder",
+            "guildEmblemUrl": "https://example.com/images/guilds/dusk-brotherhood-emblem.jpg",
+            "foundedYear": 1578,
+            "motto": "In Shadows, Truth"
+          }}
+  ]
