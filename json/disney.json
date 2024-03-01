@@ -6,17 +6,15 @@
       "age": 74,
       "seen": true,
       "première": "1950-02-15",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/1950_is_the_Cinderella_year.jpg/800px-1950_is_the_Cinderella_year.jpg",<!--Downloaden en in images zetten-->
+      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-Ellie65368/blob/main/images/1950_is_the_Cinderella_year.jpg",
       "time": "72 min",
-      "abilities": ["Teleportation", "Energy Manipulation", "Dimensional Travel"],
-      "element": "Aether",
-      "guildAffiliation": {
-        "id": "GUILD-009",
-        "name": "Order of the Cosmic Veil",
-        "guildMaster": "Celestial Mage",
-        "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
-        "foundedYear": 1423,
-        "motto": "Balance in All, All in Balance"
+      "personages": ["Assepoester", "Stiefmoeder ", "Prins"],
+      "genre": "Tekenfilm",
+
+      "producer": {
+        "id": "PRO-001",
+        "name": "Walt Disney",
+        "age": "65"  
       }
     },
     {
@@ -26,17 +24,14 @@
       "age": 65,
       "seen": true,
       "birthDate": "1959-01-29",
-      "imageUrl": "https://example.com/images/shadow-enchantress.jpg",
+      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-Ellie65368/blob/main/images/Sleeping_Beauty_logo.webp.png",
       "time": "75 min",
-      "abilities": ["Shadow Manipulation", "Illusion Casting", "Night Vision"],
-      "element": "Shadow",
-      "guildAffiliation": {
-        "id": "GUILD-015",
-        "name": "Brotherhood of the Dusk",
-        "guildMaster": "Darkness Wielder",
-        "guildEmblemUrl": "https://example.com/images/guilds/dusk-brotherhood-emblem.jpg",
-        "foundedYear": 1578,
-        "motto": "In Shadows, Truth"
+      "personages": ["Prinses Aurora", "Prins Filip", "Maleficent"],
+      "genre": "Kinderfilm",
+      "producer": {
+        "id": "PRO-002",
+        "name": "Walt Disney",
+        "age": "65"        
       }
     },
     {
@@ -46,17 +41,14 @@
       "age": 47,
       "seen": true,
       "première": "1977-06-22",
-      "imageUrl": "nog zoeken",
+      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-Ellie65368/blob/main/images/Rescuersposter.jpg",
       "time": "78 min",
-      "abilities": ["Teleportation", "Energy Manipulation", "Dimensional Travel"],
-      "element": "Aether",
-      "guildAffiliation": {
-        "id": "GUILD-009",
-        "name": "Order of the Cosmic Veil",
-        "guildMaster": "Celestial Mage",
-        "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
-        "foundedYear": 1423,
-        "motto": "Balance in All, All in Balance"
+      "personages": ["Bernard", "Juffrouw Bianca", "Penny"],
+      "genre": "Tekenfilm",
+      "producer": {
+        "id": "PRO-003",
+        "name": "Wolfgang Reitherman",
+        "age": "76"
       }
     },
     {
@@ -66,17 +58,14 @@
       "age": 33,
       "seen": true,
       "birthDate": "1991-11-13",
-      "imageUrl": "im",
+      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-Ellie65368/blob/main/images/Beauty_And_The_Beast_-_Official_Logo.jpg",
       "time": "84 min",
-      "abilities": ["Shadow Manipulation", "Illusion Casting", "Night Vision"],
-      "element": "Shadow",
-      "guildAffiliation": {
-        "id": "GUILD-015",
-        "name": "Brotherhood of the Dusk",
-        "guildMaster": "Darkness Wielder",
-        "guildEmblemUrl": "https://example.com/images/guilds/dusk-brotherhood-emblem.jpg",
-        "foundedYear": 1578,
-        "motto": "In Shadows, Truth"
+      "personages": ["Belle", "Beest", "Gaston"],
+      "genre": "Romantiek",
+      "producer": {
+        "id": "PRO-004",
+        "name": "Don Hahn",
+        "age": "69"
       }
     },
     {
@@ -86,17 +75,14 @@
       "age": 26,
       "seen": true,
       "première": "1998-06-06",
-      "imageUrl": "nog zoeken",
+      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-Ellie65368/blob/main/images/Mulan_Logo_Black.svg.png",
       "time": "88 min",
-      "abilities": ["Teleportation", "Energy Manipulation", "Dimensional Travel"],
-      "element": "Aether",
-      "guildAffiliation": {
-        "id": "GUILD-009",
-        "name": "Order of the Cosmic Veil",
-        "guildMaster": "Celestial Mage",
-        "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
-        "foundedYear": 1423,
-        "motto": "Balance in All, All in Balance"
+      "personages": ["Mulan", "Shang", "Shan-Yu"],
+      "genre": "Animatie",
+      "producer": {
+        "id": "PRO-005",
+        "name": "Pam Coats",
+        "age": "66"
       }
     },
     {
@@ -106,17 +92,14 @@
       "age": 15,
       "seen": true,
       "birthDate": "2009-12-11",
-      "imageUrl": "https://example.com/images/shadow-enchantress.jpg",
+      "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-Ellie65368/blob/main/images/1280px-The_Princess_and_the_Frog_Logo_Black.svg.png",
       "time": "95 min",
-      "abilities": ["Shadow Manipulation", "Illusion Casting", "Night Vision"],
-      "element": "Shadow",
-      "guildAffiliation": {
-        "id": "GUILD-015",
-        "name": "Brotherhood of the Dusk",
-        "guildMaster": "Darkness Wielder",
-        "guildEmblemUrl": "https://example.com/images/guilds/dusk-brotherhood-emblem.jpg",
-        "foundedYear": 1578,
-        "motto": "In Shadows, Truth"
+      "personages": ["Tiana", "Charlotte La Bouff", "Prins Naveen"],
+      "genre": "Animatie",
+      "producer": {
+        "id": "PRO-006",
+        "name": "Peter Del Vecho",
+        "age": "65"
       }
       },
       {
@@ -126,17 +109,14 @@
         "age": 14,
         "seen": true,
         "première": "2010-12-01",
-        "imageUrl": "nog zoeken",
+        "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-Ellie65368/blob/main/images/Tangled_gold_logo.svg.png",
         "time": "100 min",
-        "abilities": ["Teleportation", "Energy Manipulation", "Dimensional Travel"],
-        "element": "Aether",
-        "guildAffiliation": {
-          "id": "GUILD-009",
-          "name": "Order of the Cosmic Veil",
-          "guildMaster": "Celestial Mage",
-          "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
-          "foundedYear": 1423,
-          "motto": "Balance in All, All in Balance"
+        "personages": ["Rapunzel", "Flynn Ryder", "Moeder Gothel"],
+        "genre": "Fantasie",
+        "producer": {
+          "id": "PRO-007",
+          "name": "Roy Conli",
+          "age": "52"
         }
       },
       {
@@ -146,17 +126,14 @@
         "age": 3,
         "seen": true,
         "birthDate": "2021-03-05",
-        "imageUrl": "https://example.com/images/shadow-enchantress.jpg",
+        "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-Ellie65368/blob/main/images/Raya_en_de_Laatste_Draak.png",
         "time": "107 min",
-        "abilities": ["Shadow Manipulation", "Illusion Casting", "Night Vision"],
-        "element": "Shadow",
-        "guildAffiliation": {
-          "id": "GUILD-015",
-          "name": "Brotherhood of the Dusk",
-          "guildMaster": "Darkness Wielder",
-          "guildEmblemUrl": "https://example.com/images/guilds/dusk-brotherhood-emblem.jpg",
-          "foundedYear": 1578,
-          "motto": "In Shadows, Truth"
+        "personages": ["Raya", "Sisu", "Boun"],
+        "genre": "Avontuur",
+        "producer": {
+          "id": "PRO-008",
+          "name": "Peter Del Vecho",
+          "age": "65"
         }
         },
         {
@@ -166,17 +143,14 @@
           "age": 3,
           "seen": true,
           "première": "2021-11-24",
-          "imageUrl": "nog zoeken",
+          "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-Ellie65368/blob/main/images/Encanto_logo.jpg",
           "time": "99 min",
-          "abilities": ["Teleportation", "Energy Manipulation", "Dimensional Travel"],
-          "element": "Aether",
-          "guildAffiliation": {
-            "id": "GUILD-009",
-            "name": "Order of the Cosmic Veil",
-            "guildMaster": "Celestial Mage",
-            "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
-            "foundedYear": 1423,
-            "motto": "Balance in All, All in Balance"
+          "personages": ["Mirabel Madrigal", "Abuela Madrigal", "Bruno Madrigal"],
+          "genre": "Fantasie",
+          "producer": {
+            "id": "PRO-009",
+            "name": "Clark Spencer",
+            "age": "66"
           }
         },
         {
@@ -186,16 +160,13 @@
           "age": 1,
           "seen": true,
           "birthDate": "2023-11-22",
-          "imageUrl": "https://example.com/images/shadow-enchantress.jpg",
+          "imageUrl": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-Ellie65368/blob/main/images/Disney_Wish_Logo.png",
           "time": "92 min",
-          "abilities": ["Shadow Manipulation", "Illusion Casting", "Night Vision"],
-          "element": "Shadow",
-          "guildAffiliation": {
-            "id": "GUILD-015",
-            "name": "Brotherhood of the Dusk",
-            "guildMaster": "Darkness Wielder",
-            "guildEmblemUrl": "https://example.com/images/guilds/dusk-brotherhood-emblem.jpg",
-            "foundedYear": 1578,
-            "motto": "In Shadows, Truth"
+          "personages": ["Asha", "Valentino", "King Magnifico"],
+          "genre": "Fantasie",
+          "producer": {
+            "id": "PRO-010",
+            "name": "Peter Del Vecho",
+            "age": "65"
           }}
   ]
